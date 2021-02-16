@@ -7,7 +7,7 @@ module.exports = async () => {
 
   await new Promise((resolve, reject) => {
     request(
-      "https://glitch.com/edit/#!/primatebot?path=faq.md",
+      "https://github.com/Armoured-Monkey/Primate/blob/master/faq.md",
       (err, res, body) => {
         if (err) reject(err);
         else {
