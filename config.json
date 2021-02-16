@@ -1,0 +1,14 @@
+{
+    "prefix": "!",
+    "moderatorRoleID": "376776831971622913",
+    "faqChannelID": "752823965294264330",
+    "faqDataChannelID": "811286874038861834",
+    "roleChannelID": "739012523466031144",
+    "roleDataChannelID": "811286874038861834",
+    "verifyChannelID": "739009635809230868",
+    "verifiedRoleID": "402111697843912714",
+    "mutedRoleID": "811287102938939402",
+    "messageTimeout": 3000,
+    "color": 2933627,
+    "nerdRoleID": "376776831971622913"
+}
